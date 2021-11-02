@@ -1,0 +1,16 @@
+swift = object 스토리지 만들어서 파일을 업로드하고 다운로드하고 목록 보고,, (upload, download, list)
+-> 지연이가
+
+instance 내가 원하는 형식으로 만드려고 할때 사용자 스크립트 적용할 수 있다. 
+부팅할때 ipconfig c:\list.txt ifconfig /tmp/list
+인스턴스 생성할때 user data 스크립트에 저 내용도 들어있어야한다. (vm 만들면 이 안에 생성되어있어야한다.)
+-> 백프로 됨
+이미 생성되어있는 인스턴스 안에 명령어를 날릴 수 있는지 
+ipconfig c:\list2.txt
+ifconfig /tap/list2
+-> 안될지도
+
+유저 데이터 날려서 
+-> 현식씨가
+
+우리 파일 swift에다 올려놓고 파일을 업로드 다운로드..
